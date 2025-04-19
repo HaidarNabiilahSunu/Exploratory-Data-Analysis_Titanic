@@ -16,6 +16,7 @@ Industri transportasi laut, khususnya kapal penumpang besar seperti Titanic, mem
 
 **Insight :**
 > 📊 Berdasarkan hasil analisis terhadap data Titanic dengan kolom terbatas, ditemukan beberapa pola menarik :
+
 a. Jenis Kelamin :
 1. Penumpang perempuan memiliki tingkat keselamatan jauh lebih tinggi dibandingkan laki-laki.
 2. Ini menunjukkan bahwa protokol "women and children first" kemungkinan besar diterapkan saat evakuasi.
@@ -29,13 +30,13 @@ c. Keseluruhan :
 2. Laki-laki dewasa, terutama berusia produktif, adalah yang paling banyak tidak selamat.
 
 **Saran dan Implikasi :**
-
-💡 Beberapa saran atau refleksi dari hasil ini :
+>💡 Beberapa saran atau refleksi dari hasil ini :
 1. Dalam perencanaan evakuasi bencana, strategi prioritas untuk perempuan dan anak-anak terbukti efektif dan harus tetap menjadi fokus utama.
 2. Analisis demografi dasar seperti jenis kelamin dan usia bisa sangat kuat dalam memprediksi keselamatan dalam situasi darurat.
 3. Data yang terbatas pun masih bisa memberikan insight berarti jika dianalisis dengan benar.
 
 Jika Anda memiliki masukan, pertanyaan, atau ingin berdiskusi lebih lanjut, silakan hubungi saya melalui :
+
 🔗 LinkedIn : https://www.linkedin.com/in/haidar-nabiilah-sunu-5aa3a8333/
 
 #Titanic #EDA #DataScience #AnalisisData #Python #Pandas #GoogleColab
