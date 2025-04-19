@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets
 Industri transportasi laut, khususnya kapal penumpang besar seperti Titanic, memiliki peran penting dalam sejarah pergerakan manusia antar benua. Melalui analisis data ini, kita dapat memahami pola keselamatan, karakteristik penumpang yang selamat, dan faktor-faktor yang memengaruhi kemungkinan keselamatan seseorang.
 
 **Tujuan Analisis :**
-🔍 Tujuan dari eksplorasi data ini antara lain :
+> 🔍 Tujuan dari eksplorasi data ini antara lain :
 1. Mengetahui distribusi usia penumpang.
 2. Mengetahui perbandingan jumlah penumpang laki-laki dan perempuan.
 3. Menganalisis rasio keselamatan berdasarkan jenis kelamin.
@@ -15,7 +15,7 @@ Industri transportasi laut, khususnya kapal penumpang besar seperti Titanic, mem
 5. Menampilkan insight dalam bentuk grafik untuk membantu pemahaman.
 
 **Insight :**
-📊 Berdasarkan hasil analisis terhadap data Titanic dengan kolom terbatas, ditemukan beberapa pola menarik :
+> 📊 Berdasarkan hasil analisis terhadap data Titanic dengan kolom terbatas, ditemukan beberapa pola menarik :
 a. Jenis Kelamin :
 1. Penumpang perempuan memiliki tingkat keselamatan jauh lebih tinggi dibandingkan laki-laki.
 2. Ini menunjukkan bahwa protokol "women and children first" kemungkinan besar diterapkan saat evakuasi.
@@ -29,6 +29,7 @@ c. Keseluruhan :
 2. Laki-laki dewasa, terutama berusia produktif, adalah yang paling banyak tidak selamat.
 
 **Saran dan Implikasi :**
+
 💡 Beberapa saran atau refleksi dari hasil ini :
 1. Dalam perencanaan evakuasi bencana, strategi prioritas untuk perempuan dan anak-anak terbukti efektif dan harus tetap menjadi fokus utama.
 2. Analisis demografi dasar seperti jenis kelamin dan usia bisa sangat kuat dalam memprediksi keselamatan dalam situasi darurat.
